@@ -1,0 +1,3 @@
+com\shopflow\notificationservice\config\KafkaConsumerConfig.class
+com\shopflow\notificationservice\NotificationServiceApplication.class
+com\shopflow\notificationservice\service\NotificationService.class
