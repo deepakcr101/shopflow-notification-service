@@ -1,4 +1,8 @@
 com\shopflow\notificationservice\config\CorsConfig.class
+com\shopflow\notificationservice\model\PaymentSuccessEvent.class
+com\shopflow\notificationservice\service\SMSNotificationStrategy.class
 com\shopflow\notificationservice\config\KafkaConsumerConfig.class
 com\shopflow\notificationservice\NotificationServiceApplication.class
 com\shopflow\notificationservice\service\NotificationService.class
+com\shopflow\notificationservice\service\NotificationStrategy.class
+com\shopflow\notificationservice\service\EmailNotificationStrategy.class
